@@ -7,8 +7,5 @@
 ## node main.js
 ## jest main.test.js 
 
-# exam:
-### enter size number?
-### 100
-### when n=100 the result is: 479
-### Number is ok
+![Logo](https://github.com/IgalNeeman/Nokia/blob/master/Result.png)
+

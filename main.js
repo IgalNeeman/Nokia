@@ -10,7 +10,7 @@ let x,result;
 // n = scanf('%d');
 
 x = create_interfaces(n);
-console.log(`when n= ${n} the x is: ${x}`);
+// console.log(`when n= ${n} the x is: ${x}`);
 result = send_to_sys(x);
 return result
 };

@@ -7,8 +7,7 @@ module.exports = function send_to_system(x)
     const notgood = "Number is not good";
 
           if(x<=500)
-        return ok;
-
+            return ok;
           if(x>500)
-        return notgood;
+          return notgood;
 }
